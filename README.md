@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F8257&center=true&vCenter=true&width=600&lines=%E4%B8%87%E4%BA%BA%E6%81%A2%E5%A4%8D;Full+Stack+Developer;Building+things+that+matter)](https://git.io/typing-svg)
 
 <!-- 简短标语 -->
-<p>🛠️ 构建一些东西，也记录一些日子</p>
+<p>🛠️ 代码与文字的长期主义者</p>
 
 <!-- 访客计数 -->
 <img src="https://komarev.com/ghpvc/?username=wanrenhuifu&label=Profile%20views&color=4F8257&style=flat" alt="wanrenhuifu" />
