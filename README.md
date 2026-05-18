@@ -24,7 +24,7 @@
 <!-- 技能图标 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,react,vue,ts,js,html,css,tailwind,nodejs,vite,python,java,cpp,mysql,docker,linux,git,github,githubactions,vscode,md,latex&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,react,vue,ts,js,html,css,tailwind,nodejs,vite,python,java,cpp,mysql,docker,linux&perline=5&theme=dark" />
   </a>
 </p>
 
