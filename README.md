@@ -18,16 +18,13 @@
 我是 **万人恢复**，一名热爱技术的开发者。
 
 - 🔭 目前正在经营个人博客 **[wanrenhuifu.github.io](https://wanrenhuifu.github.io)**，基于 Astro + Tailwind CSS 构建
-- 🌱 持续探索前端工程化、静态站点生成与大模型应用
-- 💡 相信"构建一些东西，也记录一些日子"的力量
-- ⚡ 喜欢折腾工具，也关注 LM Arena 等大模型排行榜数据
 
 ## 🛠 技术栈
 
 <!-- 技能图标 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,react,vue,ts,js,html,css,tailwind,nodejs,python,git,github,vscode,md&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=astro,react,vue,ts,js,html,css,tailwind,nodejs,vite,python,java,cpp,mysql,docker,linux,git,github,githubactions,vscode,md,latex&perline=7&theme=dark" />
   </a>
 </p>
 
