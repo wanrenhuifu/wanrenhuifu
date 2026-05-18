@@ -43,35 +43,18 @@
 
 ## 🚀 精选项目
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📝 个人博客</h3>
-      <div align="center">
-        <a href="https://github.com/wanrenhuifu/wanrenhuifu.github.io" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanrenhuifu&repo=wanrenhuifu.github.io&title_color=4F8257&text_color=E6EDF3&icon_color=4F8257&bg_color=0D1117&hide_border=true" />
-        </a>
-        <p>
-          <sub>基于 Astro + Tailwind CSS 的静态博客，支持 MDX、KaTeX、Mermaid、RSS 订阅等功能</sub>
-        </p>
-        <p>
-          <a href="https://wanrenhuifu.github.io" target="_blank">🌐 在线访问</a>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📈 LM Arena 排行榜</h3>
-      <div align="center">
-        <p>
-          <sub>自动抓取并展示最新大模型 Arena 排名数据，集成于博客雷达页面</sub>
-        </p>
-        <p>
-          <code>Node.js</code> · <code>Data Fetching</code> · <code>Automation</code>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>📝 个人博客</h3>
+  <a href="https://github.com/wanrenhuifu/wanrenhuifu.github.io" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanrenhuifu&repo=wanrenhuifu.github.io&title_color=4F8257&text_color=E6EDF3&icon_color=4F8257&bg_color=0D1117&hide_border=true" />
+  </a>
+  <p>
+    <sub>基于 Astro + Tailwind CSS 的静态博客，支持 MDX、KaTeX、Mermaid、RSS 订阅等功能</sub>
+  </p>
+  <p>
+    <a href="https://wanrenhuifu.github.io" target="_blank">🌐 在线访问</a>
+  </p>
+</div>
 
 ## 📫 联系我
 
