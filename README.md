@@ -32,13 +32,13 @@
 
 <div align="center">
   <!-- GitHub 统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wanrenhuifu&show_icons=true&count_private=true&include_all_commits=true&title_color=4F8257&text_color=E6EDF3&icon_color=4F8257&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show_icons=true&count_private=true&include_all_commits=true&title_color=4F8257&text_color=E6EDF3&icon_color=4F8257&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
   <br /><br />
   <!-- 连续贡献统计 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanrenhuifu&background=0D1117&stroke=4F8257&ring=4F8257&fire=4F8257&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4F8257&sideLabels=4F8257&dates=8B949E&hide_border=true" alt="wanrenhuifu" />
   <br /><br />
   <!-- 编程语言占比 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanrenhuifu&layout=compact&langs_count=8&title_color=4F8257&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&layout=compact&langs_count=8&title_color=4F8257&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🚀 精选项目
@@ -46,7 +46,7 @@
 <div align="center">
   <h3>📝 个人博客</h3>
   <a href="https://github.com/wanrenhuifu/wanrenhuifu.github.io" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanrenhuifu&repo=wanrenhuifu.github.io&title_color=4F8257&text_color=E6EDF3&icon_color=4F8257&bg_color=0D1117&hide_border=true" />
+    <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/pin/?username=wanrenhuifu&repo=wanrenhuifu.github.io&title_color=4F8257&text_color=E6EDF3&icon_color=4F8257&bg_color=0D1117&hide_border=true" />
   </a>
   <p>
     <sub>基于 Astro + Tailwind CSS 的静态博客，支持 MDX、KaTeX、Mermaid、RSS 订阅等功能</sub>
