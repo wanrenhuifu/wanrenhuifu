@@ -21,21 +21,23 @@
 
 ## 🛠 技术栈
 
-<!-- 技能图标 -->
+<p align="center"><b>🎨 前端</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,react,vue,ts,js,html,css,tailwind,nodejs,vite,python,java,cpp,mysql,docker,linux&perline=8&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=astro,react,vue,ts,js,html,css,tailwind&theme=dark" />
 </p>
+<p align="center"><sub>Astro · React · Vue · TypeScript · JavaScript · HTML · CSS · Tailwind</sub></p>
 
-<!-- 分类文字说明 -->
+<p align="center"><b>⚙️ 工具 & 运行时</b></p>
 <p align="center">
-  <b>🎨 前端</b> Astro · React · Vue · TypeScript · JavaScript · HTML · CSS · Tailwind
-  <br/>
-  <b>⚙️ 工具 & 运行时</b> Node.js · Vite · Docker · Linux
-  <br/>
-  <b>🖥️ 后端 & 语言</b> Python · Java · C++ · MySQL
+  <img src="https://skillicons.dev/icons?i=nodejs,vite,docker,linux&theme=dark" />
 </p>
+<p align="center"><sub>Node.js · Vite · Docker · Linux</sub></p>
+
+<p align="center"><b>🖥️ 后端 & 语言</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark" />
+</p>
+<p align="center"><sub>Python · Java · C++ · MySQL</sub></p>
 
 ## 📊 GitHub 数据
 
