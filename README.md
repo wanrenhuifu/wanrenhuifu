@@ -43,18 +43,13 @@
 
 ## 🚀 精选项目
 
-<div align="center">
-  <h3>📝 个人博客</h3>
-  <a href="https://github.com/wanrenhuifu/wanrenhuifu.github.io" target="_blank">
-    <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/pin/?username=wanrenhuifu&repo=wanrenhuifu.github.io&title_color=4F8257&text_color=E6EDF3&icon_color=4F8257&bg_color=0D1117&hide_border=true" />
-  </a>
-  <p>
-    <sub>基于 Astro + Tailwind CSS 的静态博客，支持 MDX、KaTeX、Mermaid、RSS 订阅等功能</sub>
-  </p>
-  <p>
-    <a href="https://wanrenhuifu.github.io" target="_blank">🌐 在线访问</a>
-  </p>
-</div>
+### 📝 个人博客
+
+[![wanrenhuifu.github.io](https://img.shields.io/badge/wanrenhuifu.github.io-4F8257?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanrenhuifu/wanrenhuifu.github.io)
+
+基于 Astro + Tailwind CSS 的静态博客，支持 MDX、KaTeX、Mermaid、RSS 订阅等功能
+
+🌐 [**在线访问**](https://wanrenhuifu.github.io)
 
 ## 📫 联系我
 
