@@ -15,9 +15,11 @@
 
 ## 👋 关于我
 
-我是 **万人恢复**，一名热爱技术的开发者。
+我是 **万人恢复**，一名相信「长期主义」的开发者。比起追逐热点，更喜欢把一件事做到扎实。
 
 - 🔭 目前正在经营个人博客 **[wanrenhuifu.github.io](https://wanrenhuifu.github.io)**，基于 Next.js + React + Tailwind CSS 构建
+- ✍️ 写技术文章也写折腾记录，相信好的文字和好的代码一样值得打磨
+- 🌱 最近在关注 AI 工具链与前端性能优化
 
 ## 🛠 技术栈
 
@@ -31,7 +33,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,vite,docker,linux&theme=dark" />
 </p>
-<p align="center"><sub>Node.js · Docker · Linux</sub></p>
+<p align="center"><sub>Node.js · Vite · Docker · Linux</sub></p>
 
 <p align="center"><b>🖥️ 后端 & 语言</b></p>
 <p align="center">
@@ -45,8 +47,8 @@
   <!-- GitHub 统计卡片 -->
   <img src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show_icons=true&count_private=true&include_all_commits=true&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
   <br /><br />
-  <!-- 连续贡献统计 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanrenhuifu&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&hide_border=true" alt="wanrenhuifu" />
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=wanrenhuifu&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophy" />
   <br /><br />
   <!-- 编程语言占比 -->
   <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&layout=compact&langs_count=8&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
@@ -62,13 +64,20 @@
 
 🌐 [**在线访问**](https://wanrenhuifu.github.io)
 
+## 📈 最近动态
+
+<!-- 贡献图 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wanrenhuifu&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
 ## 📫 联系我
 
 <div align="center">
 
 <!-- 社交链接 -->
 <a href="https://wanrenhuifu.github.io" target="blank">
-  <img src="https://img.shields.io/badge/博客-万人恢复's%20Blog-58A6FF?style=for-the-badge&logo=astro&logoColor=white" alt="blog" />
+  <img src="https://img.shields.io/badge/博客-万人恢复's%20Blog-58A6FF?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="blog" />
 </a>
 <a href="https://github.com/wanrenhuifu" target="blank">
   <img src="https://img.shields.io/badge/GitHub-@wanrenhuifu-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
