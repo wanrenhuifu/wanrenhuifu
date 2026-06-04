@@ -25,9 +25,9 @@
 
 <p align="center"><b>🎨 前端</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=astro,nextjs,react,ts,js,html,css,tailwind&theme=dark" />
 </p>
-<p align="center"><sub>Next.js · React · TypeScript · JavaScript · HTML · CSS · Tailwind</sub></p>
+<p align="center"><sub>Astro · Next.js · React · TypeScript · JavaScript · HTML · CSS · Tailwind</sub></p>
 
 <p align="center"><b>⚙️ 工具 & 运行时</b></p>
 <p align="center">
