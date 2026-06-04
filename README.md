@@ -17,21 +17,21 @@
 
 我是 **万人恢复**，一名热爱技术的开发者。
 
-- 🔭 目前正在经营个人博客 **[wanrenhuifu.github.io](https://wanrenhuifu.github.io)**，基于 Astro + Tailwind CSS 构建
+- 🔭 目前正在经营个人博客 **[wanrenhuifu.github.io](https://wanrenhuifu.github.io)**，基于 Next.js + React + Tailwind CSS 构建
 
 ## 🛠 技术栈
 
 <p align="center"><b>🎨 前端</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=astro,react,vue,ts,js,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark" />
 </p>
-<p align="center"><sub>Astro · React · Vue · TypeScript · JavaScript · HTML · CSS · Tailwind</sub></p>
+<p align="center"><sub>Next.js · React · TypeScript · JavaScript · HTML · CSS · Tailwind</sub></p>
 
 <p align="center"><b>⚙️ 工具 & 运行时</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,vite,docker,linux&theme=dark" />
 </p>
-<p align="center"><sub>Node.js · Vite · Docker · Linux</sub></p>
+<p align="center"><sub>Node.js · Docker · Linux</sub></p>
 
 <p align="center"><b>🖥️ 后端 & 语言</b></p>
 <p align="center">
@@ -58,7 +58,7 @@
 
 [![wanrenhuifu.github.io](https://img.shields.io/badge/wanrenhuifu.github.io-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wanrenhuifu/wanrenhuifu.github.io)
 
-基于 Astro + Tailwind CSS 的静态博客，支持 MDX、KaTeX、Mermaid、RSS 订阅等功能
+基于 Next.js + React + Tailwind CSS 的静态博客，支持 MDX、KaTeX、RSS 订阅等功能
 
 🌐 [**在线访问**](https://wanrenhuifu.github.io)
 
