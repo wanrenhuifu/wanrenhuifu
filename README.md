@@ -47,9 +47,6 @@
   <!-- GitHub 统计卡片 -->
   <img src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show_icons=true&count_private=true&include_all_commits=true&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
   <br /><br />
-  <!-- GitHub Trophy（需替换为自行部署的 Vercel 域名） -->
-  <img src="https://github-profile-trophy.vercel.app/?username=wanrenhuifu&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophy" />
-  <br /><br />
   <!-- 编程语言占比 -->
   <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&layout=compact&langs_count=8&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
