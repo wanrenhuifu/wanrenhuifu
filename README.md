@@ -44,8 +44,9 @@
 ## 📊 GitHub 数据
 
 <div align="center">
-  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show_icons=true&count_private=true&include_all_commits=true&line_height=37&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&layout=donut&langs_count=8&card_width=200&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show_icons=true&count_private=true&include_all_commits=true&card_width=400&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+  <br /><br />
+  <img width="400" src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&layout=compact&langs_count=8&card_width=400&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🚀 精选项目
