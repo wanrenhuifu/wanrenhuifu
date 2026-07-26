@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 动态打字机标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E4%B8%87%E4%BA%BA%E6%81%A2%E5%A4%8D;Full+Stack+Developer;Building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%E4%B8%87%E4%BA%BA%E6%81%A2%E5%A4%8D;Full+Stack+Developer;%E6%97%A0%E6%95%8C%E7%9D%A1%E8%A7%89%E5%A4%A7%E7%8E%8B;Building+things+that+matter)](https://git.io/typing-svg)
 
 <!-- 简短标语 -->
-<p>🛠️ 代码与文字的长期主义者</p>
+<p>😴 无敌睡觉大王</p>
 
 <!-- 访客计数 -->
 <img src="https://komarev.com/ghpvc/?username=wanrenhuifu&label=Profile%20views&color=58A6FF&style=flat" alt="wanrenhuifu" />
@@ -15,11 +15,15 @@
 
 ## 👋 关于我
 
-我是 **万人恢复**，一名相信「长期主义」的开发者。比起追逐热点，更喜欢把一件事做到扎实。
+我是 **万人恢复**，一名自封「无敌睡觉大王」的个人开发者，喜欢睡觉休息，更喜欢分享知识。
 
+- 😴 充电方式：睡觉，据说梦里充满了小说素材（???）
+- 🎭 间歇性完美主义，持续性挣扎敷衍
+- 💬 评论必回，难题慢回，不是不回......
+- 🎮 已退坑所有二游，太累了，现在的精力只够睡觉
+- 🥤 碳酸饮料绝缘体，小卫戴的痛苦
 - 🔭 目前正在经营个人博客 **[wanrenhuifu.github.io](https://wanrenhuifu.github.io)**，基于 Next.js + React + Tailwind CSS 构建
-- ✍️ 写技术文章也写折腾记录，相信好的文字和好的代码一样值得打磨
-- 🌱 最近在关注 AI 工具链与前端性能优化
+- 🌱 最近在关注 AI Agents 与 前端性能优化
 
 ## 🛠 技术栈
 
