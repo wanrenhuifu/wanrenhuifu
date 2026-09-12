@@ -1,0 +1,9 @@
+# 本地工具产物（计划文件、会话缓存等）
+.zcode/
+
+# 编辑器 / AI 助手的本地私有配置
+.claude/settings.local.json
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
