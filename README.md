@@ -23,7 +23,7 @@
 - 🎮 已退坑所有二游，太累了，现在的精力只够睡觉
 - 🥤 碳酸饮料绝缘体，小卫戴的痛苦
 - 🔭 目前正在经营个人博客 **[wanrenhuifu.github.io](https://wanrenhuifu.github.io)**，基于 Next.js + React + Tailwind CSS 构建
-- 🌱 最近在关注 AI Agents 与 前端性能优化
+- 🌱 最近在关注 AI Agents、前端性能优化与 SillyTavern 酒馆角色卡
 
 ## 🛠 技术栈
 
