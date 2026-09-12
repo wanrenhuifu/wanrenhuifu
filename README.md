@@ -50,7 +50,7 @@
 <!-- 统计卡与语言环形图并排同一行 -->
 <div align="center">
   <img src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show=reviews&count_private=true&show_icons=true&line_height=37&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&hide=html,css&hide_border=true&langs_count=8&card_width=200&stats_format=bytes&layout=donut" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&hide=html,css&hide_border=true&langs_count=8&card_width=200&layout=donut&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 ## 🚀 精选项目
