@@ -47,10 +47,10 @@
 
 ## 📊 GitHub 数据
 
+<!-- 统计卡与语言环形图并排同一行 -->
 <div align="center">
-  <img width="400" src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show_icons=true&count_private=true&include_all_commits=true&card_width=400&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
-  <br /><br />
-  <img width="400" src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&layout=compact&langs_count=8&card_width=400&title_color=58A6FF&text_color=E6EDF3&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api?username=wanrenhuifu&show=reviews&count_private=true&show_icons=true&line_height=37&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-seven-rho-61.vercel.app/api/top-langs/?username=wanrenhuifu&hide=html,css&hide_border=true&langs_count=8&card_width=200&stats_format=bytes&layout=donut" alt="Top Languages" />
 </div>
 
 ## 🚀 精选项目
